@@ -1,3 +1,3 @@
-# WaifuZone Bot Code
+# Bot Code
 
 https://cutt.ly/Qfe017E
