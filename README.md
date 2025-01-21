@@ -1,2 +1,1 @@
-# WaifuZone
 My Discord Bot.
